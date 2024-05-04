@@ -1,0 +1,11 @@
+langchain
+openai
+nbconvert
+python-dotenv==1.0.0
+langchain-openai
+chainlit
+uvicorn==0.25.0
+Flask==3.0.1
+tiktoken 
+pyPDF2
+chromadb
